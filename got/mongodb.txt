@@ -1,0 +1,2 @@
+docker-compose exec db mongo
+docker-compose up --build -d mongodb 
